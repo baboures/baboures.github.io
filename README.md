@@ -1,3 +1,3 @@
-# Repositories:
+# Repositories
 
 - [Tools](https://baboures.github.io/tools/)
